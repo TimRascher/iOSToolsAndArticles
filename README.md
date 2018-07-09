@@ -7,8 +7,8 @@
 - [String Format Specifiers](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html)
 
 ### Other
--[Epoch Converter](https://www.epochconverter.com/) - Time converter
--[RegExr](https://regexr.com/) - Regular expressions editor
+- [Epoch Converter](https://www.epochconverter.com/) (Time converter)
+- [RegExr](https://regexr.com/) (Regular expressions editor)
 
 ### Swift
 - [Closure Syntax](http://goshdarnclosuresyntax.com/)
