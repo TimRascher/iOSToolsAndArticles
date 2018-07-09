@@ -1,5 +1,7 @@
 # iOS Tools and Articles 
 
+## [Blogs](https://github.com/TimRascher/iOSToolsAndArticals/blob/master/BLOGS.md)
+
 ## Tools
 ### Foundation and UIKit
 - [Hex Color to UIColor](http://uicolor.xyz/#/hex-to-ui)
