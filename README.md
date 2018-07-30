@@ -27,6 +27,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 ### Swift
 - [A Better MVC, Part 5: An Evolution](https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/)
 - [Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)
+- [Custom Types for Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B362)
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
 - [Do you often forget [weak self]? Here’s a solution](https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6)
 - [SwiftTips](https://github.com/JohnSundell/SwiftTips/blob/master/README.md)
