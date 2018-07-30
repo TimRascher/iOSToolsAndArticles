@@ -18,6 +18,9 @@
 - [JSON to Swift](https://app.quicktype.io/#l=swift)
 - [What's New In Swift](https://www.whatsnewinswift.com/)
 
+### UI
+- [Apple Developer Resources](https://developer.apple.com/design/resources/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B362)
+
 ## Articles
 A quick note, these articles all had something I thought was interesting, but I did not necessarily agree with or see the usefulness of the main conclusion presented in the article. - Tim
 
@@ -32,7 +35,6 @@ A quick note, these articles all had something I thought was interesting, but I 
 - [Type-safe identifiers in Swift](https://www.swiftbysundell.com/posts/type-safe-identifiers-in-swift)
 
 ### UI
-- [Apple Developer Resources](https://developer.apple.com/design/resources/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B362)
 - [Designing Jank-Free Apps](https://medium.com/@nathangitter/designing-jank-free-apps-9f66d43b9c87)
 - [iOS Localization Tutorial](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
