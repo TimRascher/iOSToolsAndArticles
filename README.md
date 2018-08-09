@@ -24,6 +24,9 @@
 ## Articles
 A quick note, these articles all had something I thought was interesting, but I did not necessarily agree with or see the usefulness of the main conclusion presented in the article. - Tim
 
+### Practice
+- [Code Katas](http://codekata.com/) - Increasingly difficult tasks to practice your programming.
+
 ### Swift
 - [A Better MVC, Part 5: An Evolution](https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/)
 - [Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)
