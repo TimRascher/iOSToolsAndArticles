@@ -7,6 +7,7 @@
 - [Hex Color to UIColor](http://uicolor.xyz/#/hex-to-ui)
 - [NSDateFormatter Specifiers](http://nsdateformatter.com/)
 - [String Format Specifiers](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html)
+- [Codesandbox](https://codesandbox.io/s/): You never know when you need some backend.
 
 ### Other
 - [Epoch Converter](https://www.epochconverter.com/) (Time converter)
@@ -30,6 +31,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 ### Swift
 - [A Better MVC, Part 5: An Evolution](https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/)
 - [Asserts in Swift and Why You Should Be Using Them](https://medium.com/@alecoconnor/asserts-in-swift-and-why-you-should-be-using-them-6a7c96eaec10)
+- [CoreData ManagedObjects as Codable](https://medium.com/@andrea.prearo/working-with-codable-and-core-data-83983e77198e)
 - [Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)
 - [Custom Types for Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B362)
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
