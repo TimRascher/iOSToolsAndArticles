@@ -17,6 +17,7 @@
 - [Closure Syntax](http://goshdarnclosuresyntax.com/)
 - [If case Syntax](http://goshdarnifcaseletsyntax.com/)
 - [JSON to Swift](https://app.quicktype.io/#l=swift)
+- [NSPredicate](https://nspredicate.xyz/)
 - [What's New In Swift](https://www.whatsnewinswift.com/)
 
 ### UI
