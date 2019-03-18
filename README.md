@@ -38,6 +38,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 - [Custom Types for Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B362)
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
 - [Do you often forget [weak self]? Here’s a solution](https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6)
+- [Grand Central Dispatch Tutorial for Swift 4: Part 1/2](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
 - [Observers in Swift](https://www.swiftbysundell.com/posts/observers-in-swift-part-1)
 - [SwiftTips](https://github.com/JohnSundell/SwiftTips/blob/master/README.md)
 - [The power of sets in Swift](https://www.swiftbysundell.com/posts/the-power-of-sets-in-swift)
