@@ -49,3 +49,6 @@ A quick note, these articles all had something I thought was interesting, but I 
 - [Designing Jank-Free Apps](https://medium.com/@nathangitter/designing-jank-free-apps-9f66d43b9c87)
 - [iOS Localization Tutorial](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
+
+### Xcode
+- [simctl: Simulator Command Line](https://nshipster.com/simctl/)
