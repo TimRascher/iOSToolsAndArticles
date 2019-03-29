@@ -52,3 +52,6 @@ A quick note, these articles all had something I thought was interesting, but I 
 
 ### Xcode
 - [simctl: Simulator Command Line](https://nshipster.com/simctl/)
+
+## 3rd Party Libraries
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B397)
