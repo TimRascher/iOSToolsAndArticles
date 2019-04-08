@@ -40,6 +40,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 - [Do you often forget [weak self]? Here’s a solution](https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6)
 - [Grand Central Dispatch Tutorial for Swift 4: Part 1/2](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
 - [Observers in Swift](https://www.swiftbysundell.com/posts/observers-in-swift-part-1)
+- [String literals in Swift](https://www.swiftbysundell.com/posts/string-literals-in-swift)
 - [SwiftTips](https://github.com/JohnSundell/SwiftTips/blob/master/README.md)
 - [The power of sets in Swift](https://www.swiftbysundell.com/posts/the-power-of-sets-in-swift)
 - [The power of switch statements in Swift ](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
