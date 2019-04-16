@@ -27,6 +27,9 @@
 ## Articles
 A quick note, these articles all had something I thought was interesting, but I did not necessarily agree with or see the usefulness of the main conclusion presented in the article. - Tim
 
+### iOS
+- [Guided Access](https://nshipster.com/guided-access/)
+
 ### Practice
 - [Code Katas](http://codekata.com/) - Increasingly difficult tasks to practice your programming.
 
