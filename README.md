@@ -1,6 +1,6 @@
 # iOS Tools and Articles 
 
-## [Blogs](https://github.com/TimRascher/iOSToolsAndArticals/blob/master/BLOGS.md)
+## [Blogs](BLOGS.md)
 
 ## Tools
 ### Foundation and UIKit
