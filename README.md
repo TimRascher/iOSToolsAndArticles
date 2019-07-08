@@ -22,8 +22,8 @@
 
 ### UI
 - [Apple Developer Resources](https://developer.apple.com/design/resources/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B362)
-- [UIStackView](https://nshipster.com/uistackview/)
 - [Using SVG / PDF assets in your iOS app](http://www.rexfeng.com/blog/2018/08/using-svg-pdf-assets-in-your-ios-app/)
+- [WTF Autolayout]
 
 ## Articles
 A quick note, these articles all had something I thought was interesting, but I did not necessarily agree with or see the usefulness of the main conclusion presented in the article. - Tim
@@ -54,6 +54,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 ### UI
 - [Designing Jank-Free Apps](https://medium.com/@nathangitter/designing-jank-free-apps-9f66d43b9c87)
 - [iOS Localization Tutorial](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
+- [UIStackView](https://nshipster.com/uistackview/)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 
 ### Xcode
