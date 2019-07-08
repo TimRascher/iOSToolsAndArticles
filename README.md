@@ -22,6 +22,7 @@
 
 ### UI
 - [Apple Developer Resources](https://developer.apple.com/design/resources/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B362)
+- [UIStackView](https://nshipster.com/uistackview/)
 - [Using SVG / PDF assets in your iOS app](http://www.rexfeng.com/blog/2018/08/using-svg-pdf-assets-in-your-ios-app/)
 
 ## Articles
