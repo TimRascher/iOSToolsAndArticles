@@ -51,6 +51,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 - [The power of sets in Swift](https://www.swiftbysundell.com/posts/the-power-of-sets-in-swift)
 - [The power of switch statements in Swift ](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
 - [Type-safe identifiers in Swift](https://www.swiftbysundell.com/posts/type-safe-identifiers-in-swift)
+- [Writing an Elegant and Extensible Network Stack in Swift](https://medium.com/device-blogs/writing-an-elegant-and-extensible-network-stack-in-swift-e2f5d9ab3ea9)
 
 ### UI
 - [Designing Jank-Free Apps](https://medium.com/@nathangitter/designing-jank-free-apps-9f66d43b9c87)
