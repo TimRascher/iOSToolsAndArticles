@@ -56,6 +56,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 ### UI
 - [Designing Jank-Free Apps](https://medium.com/@nathangitter/designing-jank-free-apps-9f66d43b9c87)
 - [iOS Localization Tutorial](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
+- [Popovers, UINavigationController, and preferredContentSize](https://noahgilmore.com/blog/popover-uinavigationcontroller-preferredcontentsize/)
 - [UIStackView](https://nshipster.com/uistackview/)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 
