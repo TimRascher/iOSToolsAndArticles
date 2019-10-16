@@ -29,6 +29,9 @@
 ## Articles
 A quick note, these articles all had something I thought was interesting, but I did not necessarily agree with or see the usefulness of the main conclusion presented in the article. - Tim
 
+### C
+- (Printf format string)[https://en.wikipedia.org/wiki/Printf_format_string]
+
 ### iOS
 - [Guided Access](https://nshipster.com/guided-access/)
 - [DSK Differences](http://codeworkshop.net/objc-diff/sdkdiffs/)
