@@ -45,6 +45,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 - [CoreData ManagedObjects as Codable](https://medium.com/@andrea.prearo/working-with-codable-and-core-data-83983e77198e)
 - [Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)
 - [Custom Types for Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B362)
+- [Defining custom patterns in Swift](https://www.swiftbysundell.com/articles/defining-custom-patterns-in-swift/#converting-key-paths-into-patterns)
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
 - [Do you often forget [weak self]? Here’s a solution](https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6)
 - [Grand Central Dispatch Tutorial for Swift 4: Part 1/2](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
