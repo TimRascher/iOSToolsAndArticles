@@ -77,3 +77,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 
 ## 3rd Party Libraries
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B397)
+
+## Bugs
+- Fixes issue where Cocoapods installed in a Framework makes SwiftUI Previews not work.
+  https://github.com/CocoaPods/CocoaPods/issues/9275#issuecomment-576766934
