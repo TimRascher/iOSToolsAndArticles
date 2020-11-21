@@ -36,6 +36,7 @@ A quick note, these articles all had something I thought was interesting, but I 
 ### iOS
 - [Guided Access](https://nshipster.com/guided-access/)
 - [DSK Differences](http://codeworkshop.net/objc-diff/sdkdiffs/)
+- [The Ultimate Guide to the SwiftUI 2 Application Life Cycle](https://peterfriese.dev/ultimate-guide-to-swiftui2-application-lifecycle/)
 
 ### Practice
 - [Code Katas](http://codekata.com/) - Increasingly difficult tasks to practice your programming.
