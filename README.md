@@ -2,6 +2,9 @@
 
 ## [Blogs](BLOGS.md)
 
+## Quick Tips
+ - `python -m SimpleHTTPServer 8000` starts a HTTP server on Mac OS.
+
 ## Tools
 ### Foundation and UIKit
 - [Hex Color to UIColor](http://uicolor.xyz/#/hex-to-ui)
