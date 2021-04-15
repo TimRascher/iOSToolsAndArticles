@@ -4,6 +4,7 @@
 
 ## Quick Tips
  - `python -m SimpleHTTPServer 8000` starts a HTTP server on Mac OS.
+ - `xcrun simctl openurl booted "URL GOES HERE"` passes a url to the running Simulator.
 
 ## Tools
 ### Foundation and UIKit
