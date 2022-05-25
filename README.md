@@ -3,7 +3,7 @@
 ## [Blogs](BLOGS.md)
 
 ## Quick Tips
- - `python -m SimpleHTTPServer 8000` starts a HTTP server on Mac OS.
+ - `python -m SimpleHTTPServer 8000` or `python3 -m http.server 8000` starts a HTTP server on Mac OS.
  - `xcrun simctl openurl booted "URL GOES HERE"` passes a url to the running Simulator.
 
 ## Tools
